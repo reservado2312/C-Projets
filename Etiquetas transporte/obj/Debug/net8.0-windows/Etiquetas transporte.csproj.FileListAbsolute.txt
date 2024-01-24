@@ -1,0 +1,16 @@
+C:\Users\jhona\source\repos\Etiquetas transporte\bin\Debug\net8.0-windows\Etiquetas transporte.exe
+C:\Users\jhona\source\repos\Etiquetas transporte\bin\Debug\net8.0-windows\Etiquetas transporte.deps.json
+C:\Users\jhona\source\repos\Etiquetas transporte\bin\Debug\net8.0-windows\Etiquetas transporte.runtimeconfig.json
+C:\Users\jhona\source\repos\Etiquetas transporte\bin\Debug\net8.0-windows\Etiquetas transporte.dll
+C:\Users\jhona\source\repos\Etiquetas transporte\bin\Debug\net8.0-windows\Etiquetas transporte.pdb
+C:\Users\jhona\source\repos\Etiquetas transporte\obj\Debug\net8.0-windows\Etiquetas_transporte.formHomePage.resources
+C:\Users\jhona\source\repos\Etiquetas transporte\obj\Debug\net8.0-windows\Etiquetas transporte.csproj.GenerateResource.cache
+C:\Users\jhona\source\repos\Etiquetas transporte\obj\Debug\net8.0-windows\Etiquetas transporte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhona\source\repos\Etiquetas transporte\obj\Debug\net8.0-windows\Etiquetas transporte.AssemblyInfoInputs.cache
+C:\Users\jhona\source\repos\Etiquetas transporte\obj\Debug\net8.0-windows\Etiquetas transporte.AssemblyInfo.cs
+C:\Users\jhona\source\repos\Etiquetas transporte\obj\Debug\net8.0-windows\Etiquetas transporte.csproj.CoreCompileInputs.cache
+C:\Users\jhona\source\repos\Etiquetas transporte\obj\Debug\net8.0-windows\Etiquetas transporte.dll
+C:\Users\jhona\source\repos\Etiquetas transporte\obj\Debug\net8.0-windows\refint\Etiquetas transporte.dll
+C:\Users\jhona\source\repos\Etiquetas transporte\obj\Debug\net8.0-windows\Etiquetas transporte.pdb
+C:\Users\jhona\source\repos\Etiquetas transporte\obj\Debug\net8.0-windows\Etiquetas transporte.genruntimeconfig.cache
+C:\Users\jhona\source\repos\Etiquetas transporte\obj\Debug\net8.0-windows\ref\Etiquetas transporte.dll
